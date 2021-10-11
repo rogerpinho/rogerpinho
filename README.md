@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Jrodan Knott's github stats](https://github-readme-stats.vercel.app/api?username=rogervezaro&show_icons=true)
+![Jrodan Knott's github stats](https://github-readme-stats.vercel.app/api?username=rogerpinho&show_icons=true)
 
 - 🔭 I’m a civil engineering student at UNEMAT
 - 🌱 I’m currently learning Elixir, Phoenix Framework and Flutter
